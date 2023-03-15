@@ -1,0 +1,19 @@
+.homee{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border: 2px solid black;
+    text-align: center;
+    width: 100%;
+    
+}
+img{
+    height: 230px;
+}
+button{
+    border-radius: 3px;
+    background-color: black;
+    color: aliceblue;
+}
+.margin-div{
+    margin-top: 10px;
+}

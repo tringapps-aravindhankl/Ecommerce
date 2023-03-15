@@ -1,0 +1,14 @@
+.whole-header{
+    display:grid;
+    grid-template-columns: 40% 10% 10% 10% 10% 20%;
+    background-color: black;
+    text-align: center;
+}
+.first-Grid{
+    color: white;
+}
+.second-Grid p{
+    color: aliceblue;
+    padding: 10px;
+    font-size: large;
+}
