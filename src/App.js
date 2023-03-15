@@ -10,7 +10,6 @@ let App = () => {
 
   const[selectItem,setSelectItem] = useState('');
   const newCartItems = [...selectItem]
-  const[cartItems, setCartItems]=useState('');
 
   const button=(item)=>{
     const index=newCartItems.findIndex((cartItem)=> cartItem.id===item.id);
