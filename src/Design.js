@@ -5,7 +5,7 @@ function Design({count}){
         <>
     <div className="whole-header">
         <div className="first-Grid">
-            <h1>Shopper Stop</h1>
+            <h1>Shirt store</h1>
         </div>
         <div className="second-Grid">
             <Link to="/">
